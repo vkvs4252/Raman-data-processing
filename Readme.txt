@@ -1,7 +1,9 @@
-1. put background in 1 file
+Install MATLAB,
 
-2. data in other .mat file
+1. Put background in one .mat file
 
-3. --run the .mlx file
+2. Put specimen's spectra in other .mat file
 
-it would generate - normalised and unnormalised but processed data, stored in two separate .mat files
+3. -- Run all(.mlx file)
+
+It would process the data and save unnormalised and normalised copies of the processed spectra into two separate .mat files.
